@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy Landing Files",
+				"name": "Copy Landing Files To Raw",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
